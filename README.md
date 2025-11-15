@@ -16,7 +16,7 @@ By completing this lab, you will develop a comprehensive understanding of how to
 
 ## Steps
 1. Click the windows <b>Start</b> button and select <b>Setting</b>
-<img width="517" height="596" alt="Setting" src="https://github.com/user-attachments/assets/c5fece59-ab96-4ee0-a73f-768d3de929e4" />
+<img width="517" height="596" alt="Setting" src="https://github.com/user-attachments/assets/c5fece59-ab96-4ee0-a73f-768d3de929e4" /> <br>
 
 2. On the Windows Settings page, select <b>Update & Security.</b>
 
