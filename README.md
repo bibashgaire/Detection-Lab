@@ -21,6 +21,7 @@ By completing this lab, you will develop a comprehensive understanding of how to
 
 
 2. On the Windows Settings page, select <b>Update & Security.</b>
+<br>
 <img width="794" height="550" alt="Update security" src="https://github.com/user-attachments/assets/5afccac3-528d-4eff-be25-1d413ac3e863" />
 
 3. Under Update & Security, select Windows Security. Here, select<b> Virus and threat protection.</b>
